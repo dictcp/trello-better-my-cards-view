@@ -1,6 +1,6 @@
 trello-better-my-cards-view
 ===================
-The userscript will remove the card in the Done List. Forget those that you have done :)
+The userscript will remove the cards in the Done List from your "My cards" view (i.e. https://trello.com/USERNAME/cards). Forget those that you have done :)
 
 Installation
 -------
